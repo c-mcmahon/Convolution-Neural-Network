@@ -4,6 +4,7 @@
 import tensorflow as tf
 from keras.preprocessing.image import ImageDataGenerator
 
+
 # Part 1 - Data Preprocessing
 
 # Preprocessing the Training set
